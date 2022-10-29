@@ -1,6 +1,9 @@
-Olá! Meu nome é André.
+Olá! Meu nome é André.<br>
 Sou um estudante de tecnologia. Um aprendiz de programação e desenvolvimento de sistemas.
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=andre-f-alves">
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
