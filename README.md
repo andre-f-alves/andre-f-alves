@@ -15,3 +15,5 @@ Também possuo conhecimentos básicos em Python para automações e análise de 
 Além disso, atualmente tenho estudado bibliotecas como D3.js, para visualização dinâmica de dados, e React, para criar interfaces mais interativas.
 
 Sou autoditada e sempre procuro por fontes confiáveis de informação, como documentações oficiais de tecnologias, principalmente quando é necessário implementar novos recursos ou sanar alguma dúvida.
+
+[Currículo.pdf](https://github.com/andre-f-alves/andre-f-alves/files/15210201/Curriculo.pdf)
