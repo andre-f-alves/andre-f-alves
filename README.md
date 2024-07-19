@@ -17,4 +17,4 @@ Conhecimentos básicos em:
 - Node.js para o desenvolvimento de servidores web e APIs;
 - Banco de dados relacionais com SQL.
 
-Acesse meu [currículo](https://www.canva.com/design/DAGLZwtZH38/DEbr4pPgY3E4E5VfdOaY0w/edit?utm_content=DAGLZwtZH38&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+Acesse meu [currículo](https://github.com/andre-f-alves/andre-f-alves/blob/main/Curr%C3%ADculo.pdf).
