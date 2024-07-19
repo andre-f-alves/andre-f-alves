@@ -1,19 +1,20 @@
 # Sobre Mim
 
-Sou um apreciador do mundo nerd, fascinado por tecnologia, super-heróis, jogos e muitos outros assuntos. Minha jornada no universo da programação começou aos 14 anos, quando um amigo me apresentou possibilidades incríveis proporcionadas pela área e me indicou um curso de Python para iniciantes no canal do Curso em Vídeo. As aulas e lições desse curso, em conjunto com a excelente didática do professor Gustavo Guanabara, me deixaram admirado com o poder que as linhas de código oferecem. A partir desse momento, comecei a sentir prazer ao programar.
+Sou um entusiasta do mundo nerd, fascinado por tecnologia, super-heróis, filmes, jogos e música. Descobri o universo da programação aos 14 anos, através da indicação de um amigo ao curso de Python do Curso em Vídeo. A excelente didática do professor Gustavo Guanabara me fez perceber o poder que as linhas de código podem proporcionar, despertando em mim um grande interesse pela programação.
 
-Hoje, busco incessantemente aprimorar minhas habilidades como programador Front-End por meio de cursos, projetos pessoais e conselhos de profissionais experientes. Dessa forma, tenho adquirido cada vez mais conhecimento e entendimento prático sobre conceitos, tecnologias e ferramentas utilizadas na área e sobre os ambientes de trabalho. Além disso, estou sempre determinado a agir com responsabilidade, tendo um compromisso pessoal com a qualidade das tarefas que realizo. Também procuro tomar decisões de forma consciente, considerando o impacto que podem ter, e me esforço para alcançar meus objetivos.
-
-Embora esteja no início da minha carreira como desenvolvedor Front-End, estou esperançoso para enfrentar novos desafios, poder contribuir para projetos significativos e continuar aprimorando minhas habilidades. Estou aberto a oportunidades que me permitam crescer profissionalmente e aplicar meus conhecimentos em um ambiente prático.
+Desde então, venho aprimorando minhas habilidades e adquirindo experiência por meio de estudos e projetos pessoais. Anseio poder contribuir com meus conhecimentos para projetos significativos. Determinado a crescer intelectual e profissionalmente, estou pronto para enfrentar novos desafios.
 
 ## Habilidades em programação
 
-Sendo um desenvolvedor Front-End, concentro-me no desenvolvimento de aplicações web, em especial a interface do usuário, utilizando as tecnologias padrão (HTML, CSS e JavaScript) e aplicando conceitos de responsividade, dinamismo, interatividade e usabilidade.
+- Criação de sites responsivos com HTML, CSS e JavaScript;
+- Consumo e tratamento de dados de APIs com JavaScript;
+- D3.js para a visulização dinâmica de dados de APIs;
+- Desenvolvimento de interfaces dinâmicas e interativas com React.
 
-Também possuo conhecimentos básicos em Python para automações e análise de dados, em Node.js para desenvolvimento de servidores web e APIs e em bancos de dados relacionais com SQL.
+Conhecimentos básicos em:
 
-Além disso, atualmente tenho estudado bibliotecas como D3.js, para visualização dinâmica de dados, e React, para criar interfaces mais interativas.
+- Python para automações e análise de dados;
+- Node.js para o desenvolvimento de servidores web e APIs;
+- Banco de dados relacionais com SQL.
 
-Sou autoditada e sempre procuro por fontes confiáveis de informação, como documentações oficiais de tecnologias, principalmente quando é necessário implementar novos recursos ou sanar alguma dúvida.
-
-[Currículo.pdf](https://github.com/andre-f-alves/andre-f-alves/files/15210201/Curriculo.pdf)
+Acesse meu [currículo](https://www.canva.com/design/DAGLZwtZH38/DEbr4pPgY3E4E5VfdOaY0w/edit?utm_content=DAGLZwtZH38&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
